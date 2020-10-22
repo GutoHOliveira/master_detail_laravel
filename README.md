@@ -7,7 +7,7 @@ Nesse projeto utilizamos o master-detail para fazer a relação entre produtos e
 
 Instruções:
 
-1- git clone https://github.com/GutoHOliveira/master_detail_laravel.git
+1- git clone https://github.com/gutoholiveira/master_detail_laravel.git
 
 2- configurar o arquivo .env com a conexão do banco de dados
 
